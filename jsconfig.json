@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {}
+  },
+  "include": ["app/**/*", "pages/**/*"]  // Inclui apenas pastas que existem
+}
